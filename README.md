@@ -1,8 +1,8 @@
 # Genshin-Coordinate
-**Genshin BPFC coordinate files**
+**Genshin STP coordinate files**
 > **version:v3.6**
 > 
-> **BPFC files are based on Internet document data.**
+> **STP files are based on Internet document data.**
 >
 > **The data added after version 3.4 may differ from the actual in-game data.**
 >
@@ -13,3 +13,5 @@ Reasons:
 >>**2. Data updated after v3.4 may not be fully included, depending on subsequent changes made by the M Company.**
 >
 >>**3. Other reasons not found**
+
+----------
